@@ -1,0 +1,34 @@
+section span {
+    margin: 0;
+    font-size: 400%;
+    text-align: center;
+    line-height: 1;
+    padding-top: calc(25vh - 20pt);
+    display: block;
+    font-weight: 700;
+    color: white;
+  }
+
+  section {
+    height: 50vh;
+    background: #e20707c4;
+  }
+
+  @media (max-width: 500px)
+{
+  section span {
+    margin: 0;
+    font-size: 400%;
+    text-align: center;
+    line-height: 1;
+    padding-top: calc(25vh - 20pt);
+    display: block;
+    font-weight: 700;
+    color: white;
+  }
+
+  section {
+    height: 50vh;
+    background: #e20707c4;
+  }
+}
