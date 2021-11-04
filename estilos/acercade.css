@@ -1,0 +1,17 @@
+.container {
+    padding: 50px 20px 20px 50px;
+    text-align: center;
+    /*background: rgb(101, 145, 92);*/
+    font-family: 'Zen Antique', serif;
+}
+
+.container  p{
+    font-family: Arial;
+    font-size: 120%;
+    font-family: 'Zen Antique', serif;
+    text-align: justify;
+    /*background-color: rgb(194, 194, 219);*/
+}
+
+
+
